@@ -1,8 +1,8 @@
 ﻿using System;
 
-class Program
+class zad1
 {
-    static void Main()
+    public static void Run()
     {
         // Przypisanie wartości do zmiennych w jednym miejscu
         var number = 10;
